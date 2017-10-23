@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap Cheat Sheet</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+  	<div class="container">
+
+  		<!-- TYPOGRAPHY -->
+	    <h1 class="page-header">Hello, world! <small>Secondary text</small></h1>
+	    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+	    <p><mark>Lorem ipsum dolor sit amet</mark>, consectetur adipisicing elit, sed do eiusmod
+	    tempor <del>incididunt ut labore</del> et dolore magna aliqua. Ut enim ad minim veniam,
+	    quis nostrud exercitation <u>ullamco laboris nisi</u> ut aliquip ex ea commodo
+	    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+	    <hr>
+
+	    <!-- ALIGNMENT & TRANSFORMATION -->
+	    <p class="text-left text-lowercase">Left aligned text.</p>
+	    <p class="text-center text-uppercase">Center aligned text.</p>
+	    <p class="text-right text-capitalize">Right aligned text.</p>
+	    <p class="text-justify">Justified aligned text.</p>
+	    <p class="text-nowrap">No wrap text.</p>
+
+
+	    <!-- QUICK FLOATS -->
+	    <div class="pull-right">
+	    	Div floated to right
+	    </div>
+	    <div class="pull-left">
+	    	Div floated to left
+	    </div>
+
+	    <!-- CLEAR FLOAT -->
+	    <div class="clearfix"></div>
+	    <hr>
+
+	    <!-- BLOCKQUOTE -->
+	    <blockquote class="blockquote-reverse">
+	    	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	    	tempor incididunt ut labore et dolore magna aliqua.</p>
+	    	<footer>Qoute by <cite title="John Doe">John Doe</cite></footer>
+	    </blockquote>
+
+	    <!-- LIST -->
+	    <ul class="list-unstyled">
+	    	<li>Item One</li>
+	    	<li>Item Two</li>
+	    	<li>Item Three</li>
+	    	<li>Item Four</li>
+	    </ul>
+
+	    <ul class="list-inline">
+	    	<li>Item One</li>
+	    	<li>Item Two</li>
+	    	<li>Item Three</li>
+	    	<li>Item Four</li>
+	    </ul>
+
+	    <!-- CODE -->
+	    <code>&lt;h1&gt;Heading Text&lt;/h1&gt;</code>
+	    <br>
+	    Change directory with <kbd>cd</kbd>
+	    <br>
+	    To edit settings, press <kbd><kbd>ctrl</kbd> + <kbd>,</kbd></kbd>
+
+	    <hr>
+
+	    <!-- CONTEXTUAL COLORS -->
+	    <p class="text-primary">Hello World</p>
+	    <p class="text-success">Hello World</p>
+	    <p class="text-info">Hello World</p>
+	    <p class="text-warning">Hello World</p>
+	    <p class="text-danger">Hello World</p>
+	    <p class="text-muted">Hello World</p>
+
+	    <!-- CONTEXTUAL BACKGROUND COLORS -->
+	    <p class="bg-primary">Hello World</p>
+	    <p class="bg-success">Hello World</p>
+	    <p class="bg-info">Hello World</p>
+	    <p class="bg-warning">Hello World</p>
+	    <p class="bg-danger">Hello World</p>
+
+	</div>
+	<hr>
+
+	<!-- BUTTONS -->
+	<div class="container">
+		<button class="btn btn-default">Button</button>
+		<a class="btn btn-default" href="#" role="button">Link</a>
+		<input type="submit" class="btn btn-default" value="Submit">
+		<br>
+		<!-- CONTEXTUAL BUTTONS -->
+		<button class="btn btn-default">Default</button>
+		<button class="btn btn-primary">Primary</button>
+		<button class="btn btn-success">Success</button>
+		<button class="btn btn-info">Info</button>
+		<button class="btn btn-warning">Warning</button>
+		<button class="btn btn-danger">Default</button>
+		<button class="btn btn-link">Link</button>
+		<br>
+		<!-- BUTTON SIZES -->
+		<button class="btn btn-default btn-lg">Default-lg</button>
+		<button class="btn btn-default">Default</button>
+		<button class="btn btn-primary btn-sm">Primary-sm</button>
+		<button class="btn btn-default btn-xs" disabled="disabled">Default-xs</button>
+	</div>
+
+	<hr>
+
+	<!-- FORMS -->
+	<div class="container">
+		<form>
+			<div class="form-group">
+				<label>Name</label>
+				<input class="form-control" type="text" placeholder="Add Name"></input>
+			</div>
+
+			<div class="form-group">
+				<label>Email</label>
+				<input class="form-control" type="email" placeholder="Add Email"></input>
+			</div>
+
+			<div class="form-group">
+				<label>Message</label>
+				<textarea class="form-control" placeholder="Add Email"></textarea>
+			</div>
+
+			<div class="form-group">
+				<label>Gender</label>
+				<select class="form-control">
+					<option value="male">Male</option>
+					<option value="female">Female</option>
+					<option value="other">Other</option>
+				</select>
+			</div>
+
+			<div class="form-group">
+				<label>Upload File</label>
+				<input type="file">
+					<p class="help-block">Only png and jpg allowed</p>
+				</input>
+			</div>
+
+			<div class="checkbox">
+				<label>
+					<input type="checkbox">Check me out</input>
+				</label>
+			</div>
+
+			<button type="submit" class="btn btn-default">Submit</button>
+		</form>
+	</div>	
+
+
+	<div style="height:200px;"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
