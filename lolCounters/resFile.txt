@@ -1,0 +1,138 @@
+aatrox	Jax<br>Teemo<br>Pantheon<br>Fiora<br>Renekton<br>Riven<br>Tryndamere<br>Irelia<br>Wukong<br>Nasus<br>Gangplank<br>Jayce<br>
+ahri	LeBlanc<br>Swain<br>Yasuo<br>Diana<br>Syndra<br>Talon<br>Malzahar<br>Annie<br>Kassadin<br>Fizz<br>Akali<br>Lissandra<br>
+akali	Lee Sin<br>Mordekaiser<br>Rumble<br>Annie<br>Garen<br>Malzahar<br>Diana<br>Renekton<br>Syndra<br>LeBlanc<br>Fiddlesticks<br>Swain<br>
+alistar	Janna<br>Tristana<br>Vayne<br>Lulu<br>Morgana<br>Ezreal<br>Soraka<br>Jarvan IV<br>Sona<br>Caitlyn<br>Olaf<br>Lux<br>
+amumu	Shyvana<br>Xin Zhao<br>Lee Sin<br>Shaco<br>Ekko<br>Vi<br>Corki<br>Kha'Zix<br>Irelia<br>Dr. Mundo<br>Warwick<br>Olaf<br>
+anivia	Fizz<br>Diana<br>Kassadin<br>LeBlanc<br>Orianna<br>Talon<br>Zed<br>Nautilus<br>Syndra<br>Gragas<br>Brand<br>Ziggs<br>
+annie	Brand<br>Orianna<br>Lux<br>LeBlanc<br>Morgana<br>Sion<br>Kassadin<br>Syndra<br>Syndra<br>Heimerdinger<br>Galio<br>Xerath<br>
+ashe	Ezreal<br>Draven<br>Jinx<br>Kha'Zix<br>Graves<br>Sivir<br>Caitlyn<br>Lucian<br>Master Yi<br>Taric<br>Quinn<br>Varus<br>
+aurelionsol	Fizz<br>Ekko<br>Fizz<br>Zed<br>LeBlanc<br>Yasuo<br>Orianna<br>Ahri<br>Rengar<br>Zed<br>Katarina<br>Akali<br>
+azir	Ziggs<br>Talon<br>Xerath<br>Syndra<br>Fizz<br>Ahri<br>Zed<br>Malzahar<br>Lux<br>Kassadin<br>Veigar<br>Akali<br>
+bard	Morgana<br>Sivir<br>Blitzcrank<br>Teemo<br>Thresh<br>Jarvan IV<br>Soraka<br>Zyra<br>Karma<br>Braum<br>Nautilus<br>Jinx<br>
+blitzcrank	Leona<br>Morgana<br>Alistar<br>Sivir<br>Ezreal<br>Thresh<br>Braum<br>Illaoi<br>Amumu<br>Taric<br>Janna<br>Tahm Kench<br>
+brand	Kassadin<br>Galio<br>Zed<br>Fizz<br>LeBlanc<br>Lux<br>Akali<br>Syndra<br>Xerath<br>Diana<br>Ziggs<br>Pantheon<br>
+braum	Morgana<br>Zyra<br>Karma<br>Lulu<br>Leona<br>Soraka<br>Alistar<br>Vayne<br>Janna<br>Nami<br>Sona<br>Zilean<br>
+caitlyn	Sivir<br>Jinx<br>Varus<br>Braum<br>Jinx<br>Tristana<br>Lucian<br>Yasuo<br>Leona<br>Kog'Maw<br>Blitzcrank<br>Aatrox<br>
+camille	Illaoi<br>Jax<br>Kled<br>Poppy<br>Fiora<br>Tahm Kench<br>Teemo<br>Riven<br>Poppy<br>Renekton<br>Nasus<br>Pantheon<br>
+cassiopeia	Galio<br>Diana<br>Talon<br>LeBlanc<br>Lux<br>Veigar<br>Fizz<br>Syndra<br>Orianna<br>Ahri<br>Zed<br>Yasuo<br>
+chogath	Warwick<br>Kog'Maw<br>Renekton<br>Jax<br>Vayne<br>Garen<br>Kayle<br>Lee Sin<br>Aatrox<br>Irelia<br>Riven<br>Fizz<br>
+corki	Caitlyn<br>Draven<br>LeBlanc<br>Graves<br>Ashe<br>Urgot<br>Varus<br>Lucian<br>Ahri<br>Zilean<br>Graves<br>Kog'Maw<br>
+darius	Yorick<br>Kayle<br>Jayce<br>Zed<br>Jax<br>Teemo<br>Aatrox<br>Pantheon<br>Renekton<br>Elise<br>Kennen<br>Cho'Gath<br>
+diana	Mordekaiser<br>Cho'Gath<br>Irelia<br>Heimerdinger<br>Syndra<br>Swain<br>Riven<br>Malzahar<br>Karma<br>Aatrox<br>Annie<br>Yasuo<br>
+drmundo	Olaf<br>Trundle<br>Kog'Maw<br>Fizz<br>Shyvana<br>Darius<br>Riven<br>Teemo<br>Jarvan IV<br>Aatrox<br>Elise<br>Miss Fortune<br>
+draven	Varus<br>Thresh<br>Blitzcrank<br>Nami<br>Caitlyn<br>Quinn<br>Leona<br>Ashe<br>Aatrox<br>Kog'Maw<br>Taric<br>Urgot<br>
+ekko	LeBlanc<br>Cho'Gath<br>Diana<br>Xin Zhao<br>Tryndamere<br>Heimerdinger<br>Yasuo<br>Kassadin<br>Cassiopeia<br>Fiora<br>Renekton<br>Azir<br>
+elise	Kassadin<br>Yorick<br>Wukong<br>Gangplank<br>Mordekaiser<br>Malzahar<br>LeBlanc<br>Maokai<br>Pantheon<br>Lee Sin<br>Riven<br>Aatrox<br>
+evelynn	Ryze<br>Rek'sai<br>Heimerdinger<br>Anivia<br>Kassadin<br>Twisted Fate<br>Caitlyn<br>Cassiopeia<br>Mordekaiser<br>Ahri<br>Xin Zhao<br>Twisted Fate<br>
+ezreal	Draven<br>Graves<br>Miss Fortune<br>Akali<br>Twitch<br>Kalista<br>Caitlyn<br>Sivir<br>Tristana<br>Vayne<br>Corki<br>Fizz<br>
+fiddlesticks	Evelynn<br>Janna<br>Kassadin<br>Xin Zhao<br>Tristana<br>Diana<br>Cho'Gath<br>Ahri<br>Alistar<br>Talon<br>Udyr<br>Cassiopeia<br>
+fiora	Jax<br>Pantheon<br>Riven<br>Renekton<br>Darius<br>Singed<br>Malphite<br>Kayle<br>Shen<br>Volibear<br>Xin Zhao<br>Irelia<br>
+fizz	Kayle<br>Lissandra<br>Ryze<br>Mordekaiser<br>Annie<br>Diana<br>LeBlanc<br>Akali<br>Malzahar<br>LeBlanc<br>Karma<br>Xerath<br>
+galio	Udyr<br>Braum<br>Irelia<br>Janna<br>Talon<br>Yasuo<br>Malphite<br>Riven<br>Talon<br>Ahri<br>Kha'Zix<br>Twisted Fate<br>
+gangplank	Pantheon<br>Fiora<br>Riven<br>Poppy<br>Udyr<br>Jax<br>Renekton<br>Irelia<br>Darius<br>Wukong<br>Rumble<br>Vladimir<br>
+garen	Teemo<br>Gnar<br>Elise<br>Darius<br>Pantheon<br>Yorick<br>Jayce<br>Aatrox<br>Nidalee<br>Ryze<br>Shyvana<br>Vladimir<br>
+gnar	Wukong<br>Pantheon<br>Nidalee<br>Irelia<br>Fiora<br>Teemo<br>Jayce<br>Vladimir<br>Darius<br>Riven<br>Yasuo<br>Olaf<br>
+gragas	Yasuo<br>Yasuo<br>Ahri<br>LeBlanc<br>Evelynn<br>Annie<br>Mordekaiser<br>Fizz<br>Fizz<br>Syndra<br>Ziggs<br>Talon<br>
+graves	Caitlyn<br>Sivir<br>Urgot<br>Corki<br>Miss Fortune<br>Draven<br>Tristana<br>Kog'Maw<br>Aatrox<br>Amumu<br>Braum<br>Taric<br>
+hecarim	Nasus<br>Sejuani<br>Aatrox<br>Sejuani<br>Vi<br>Sejuani<br>Garen<br>Dr. Mundo<br>Darius<br>Nasus<br>Lee Sin<br>Janna<br>
+heimerdinger	Syndra<br>Malzahar<br>Xerath<br>Lux<br>Ziggs<br>Brand<br>Nunu<br>Vel'Koz<br>Orianna<br>Gragas<br>Anivia<br>Veigar<br>
+illaoi	Lulu<br>Vayne<br>Tryndamere<br>Jarvan IV<br>Fiora<br>Nasus<br>Irelia<br>Yasuo<br>Olaf<br>Janna<br>Veigar<br>Ziggs<br>
+irelia	Olaf<br>Udyr<br>Garen<br>Darius<br>Pantheon<br>Nasus<br>Renekton<br>Jax<br>Yorick<br>Volibear<br>Fiora<br>Malphite<br>
+ivern	Illaoi<br>Urgot<br>Amumu<br>Rengar<br>Aatrox<br>Kindred<br>Rumble<br>Xin Zhao<br>Ahri<br>Kha'Zix<br>Lee Sin<br>Zac<br>
+janna	Sona<br>Nami<br>Sivir<br>Blitzcrank<br>Diana<br>Nidalee<br>Zyra<br>Dr. Mundo<br>Hecarim<br>Graves<br>Zilean<br>Sona<br>
+jarvaniv	Yorick<br>Elise<br>Renekton<br>Vi<br>Jax<br>Lee Sin<br>Shen<br>Tryndamere<br>Pantheon<br>Garen<br>Irelia<br>Xin Zhao<br>
+jax	Malphite<br>Pantheon<br>Singed<br>Renekton<br>Ryze<br>Jayce<br>Gnar<br>Garen<br>Nasus<br>Rumble<br>Shyvana<br>Wukong<br>
+jayce	Yorick<br>Xin Zhao<br>Fiora<br>Pantheon<br>Wukong<br>Nidalee<br>Irelia<br>Aatrox<br>Jarvan IV<br>Elise<br>Renekton<br>Cho'Gath<br>
+jhin	Vayne<br>Lucian<br>Caitlyn<br>Jinx<br>Bard<br>Miss Fortune<br>Ezreal<br>Varus<br>Tristana<br>Draven<br>Miss Fortune<br>Kalista<br>
+jinx	Ezreal<br>Corki<br>Sivir<br>Varus<br>Quinn<br>Draven<br>Lucian<br>Tristana<br>Graves<br>Twitch<br>Aatrox<br>Ashe<br>
+kalista	Ashe<br>Caitlyn<br>Graves<br>Vayne<br>Master Yi<br>Quinn<br>Talon<br>Alistar<br>Yasuo<br>Sona<br>Kog'Maw<br>Teemo<br>
+karma	Veigar<br>Swain<br>Malzahar<br>Xerath<br>Nami<br>Talon<br>Kassadin<br>Syndra<br>Gragas<br>Karthus<br>Aatrox<br>Sona<br>
+karthus	Soraka<br>Kassadin<br>Fizz<br>LeBlanc<br>Katarina<br>Lux<br>Akali<br>Veigar<br>Ahri<br>Orianna<br>Master Yi<br>Ziggs<br>
+kassadin	Talon<br>Pantheon<br>Heimerdinger<br>Kha'Zix<br>Jax<br>Zed<br>Mordekaiser<br>Nocturne<br>Diana<br>Swain<br>Fizz<br>Kayle<br>
+katarina	Diana<br>Fiddlesticks<br>Malzahar<br>Lissandra<br>Lulu<br>Riven<br>LeBlanc<br>Heimerdinger<br>Fizz<br>Talon<br>Annie<br>Cho'Gath<br>
+kayle	Orianna<br>Annie<br>Pantheon<br>Ziggs<br>Xin Zhao<br>Gragas<br>Anivia<br>Jarvan IV<br>Aatrox<br>Malzahar<br>Lux<br>LeBlanc<br>
+kayn	Kindred<br>Xin Zhao<br>Renekton<br>Garen<br>Warwick<br>Kha'Zix<br>Tryndamere<br>Jax<br>Lee Sin<br>Wukong<br>Heimerdinger<br>Jayce<br>
+kennen	Diana<br>Janna<br>Vladimir<br>Yorick<br>Swain<br>Ryze<br>LeBlanc<br>Irelia<br>Jarvan IV<br>Renekton<br>Kayle<br>Mordekaiser<br>
+khazix	Lee Sin<br>Yorick<br>Pantheon<br>Jayce<br>Rengar<br>Tryndamere<br>Jax<br>Ryze<br>Riven<br>Aatrox<br>Renekton<br>Poppy<br>
+kindred	Lee Sin<br>Diana<br>Gragas<br>Vayne<br>Jax<br>Swain<br>Xin Zhao<br>LeBlanc<br>Tryndamere<br>Cassiopeia<br>Kalista<br>Tahm Kench<br>
+kled	Fiora<br>Tahm Kench<br>Gnar<br>Renekton<br>Shen<br>Yasuo<br>Jax<br>Teemo<br>Aatrox<br>Pantheon<br>Riven<br>Trundle<br>
+kogmaw	Blitzcrank<br>Lucian<br>Miss Fortune<br>Ashe<br>Poppy<br>Akali<br>Jinx<br>Ezreal<br>Teemo<br>Jinx<br>Draven<br>Sivir<br>
+leblanc	Galio<br>Morgana<br>Talon<br>Syndra<br>Diana<br>Annie<br>Mordekaiser<br>Karma<br>Heimerdinger<br>Fizz<br>Malzahar<br>Fiddlesticks<br>
+leesin	Trundle<br>Udyr<br>Pantheon<br>Udyr<br>Riven<br>Renekton<br>Garen<br>Cho'Gath<br>Singed<br>Xin Zhao<br>Jax<br>Aatrox<br>
+leona	Morgana<br>Alistar<br>Janna<br>Lulu<br>Karma<br>Zyra<br>Thresh<br>Braum<br>Annie<br>Taric<br>Maokai<br>Nautilus<br>
+lissandra	Kassadin<br>Syndra<br>Diana<br>Anivia<br>Brand<br>LeBlanc<br>Aatrox<br>Ahri<br>Annie<br>Orianna<br>Xerath<br>Malzahar<br>
+lucian	Vayne<br>Draven<br>Tristana<br>Graves<br>Caitlyn<br>Vayne<br>Miss Fortune<br>Ezreal<br>Quinn<br>Aatrox<br>Sivir<br>Corki<br>
+lulu	Orianna<br>Syndra<br>Soraka<br>Brand<br>Ziggs<br>Morgana<br>Sona<br>Azir<br>Sion<br>Wukong<br>Amumu<br>Talon<br>
+lux	Talon<br>Gragas<br>Fizz<br>Yasuo<br>Zed<br>Kassadin<br>Orianna<br>Brand<br>Diana<br>Nidalee<br>Ziggs<br>Ahri<br>
+malphite	Rumble<br>Zac<br>Olaf<br>Shen<br>Yorick<br>Cho'Gath<br>Darius<br>Renekton<br>Vladimir<br>Garen<br>Darius<br>Annie<br>
+malzahar	Gangplank<br>Syndra<br>Morgana<br>Galio<br>Talon<br>Annie<br>Brand<br>Ziggs<br>Lux<br>LeBlanc<br>Vel'Koz<br>Diana<br>
+maokai	Shyvana<br>Nasus<br>Pantheon<br>Dr. Mundo<br>Swain<br>Yorick<br>Darius<br>Singed<br>Cho'Gath<br>Shyvana<br>Vladimir<br>Shyvana<br>
+masteryi	Jax<br>Tryndamere<br>Pantheon<br>Teemo<br>Rammus<br>Cho'Gath<br>Master Yi<br>Aatrox<br>Riven<br>Fiora<br>Renekton<br>Wukong<br>
+missfortune	Tristana<br>Draven<br>Taric<br>Quinn<br>Caitlyn<br>Braum<br>Caitlyn<br>Varus<br>Lucian<br>Corki<br>Yasuo<br>Shaco<br>
+mordekaiser	Zyra<br>Lux<br>Yorick<br>Malzahar<br>Cassiopeia<br>Garen<br>Swain<br>Darius<br>Brand<br>Swain<br>Kayle<br>Orianna<br>
+morgana	Karma<br>Talon<br>Zed<br>Vladimir<br>Fizz<br>Janna<br>Mordekaiser<br>Katarina<br>Malzahar<br>Sona<br>Aatrox<br>Ryze<br>
+nami	Lulu<br>Ezreal<br>Fizz<br>Blitzcrank<br>Leona<br>Yasuo<br>Sona<br>Morgana<br>Alistar<br>Janna<br>Braum<br>Soraka<br>
+nasus	Olaf<br>Teemo<br>Rumble<br>Pantheon<br>Ryze<br>Darius<br>Volibear<br>Fiora<br>Trundle<br>Garen<br>Vladimir<br>Shyvana<br>
+nautilus	Shyvana<br>Yorick<br>Morgana<br>Vi<br>Aatrox<br>Shaco<br>Kennen<br>Darius<br>Olaf<br>Vladimir<br>Dr. Mundo<br>Trundle<br>
+nidalee	Yasuo<br>Pantheon<br>Akali<br>Zed<br>LeBlanc<br>Fizz<br>Katarina<br>Talon<br>Swain<br>Veigar<br>Diana<br>Xerath<br>
+nocturne	Olaf<br>Lee Sin<br>Alistar<br>Udyr<br>Tryndamere<br>Aatrox<br>Vi<br>Shyvana<br>Shaco<br>Pantheon<br>Singed<br>Lucian<br>
+nunu	Cassiopeia<br>Sona<br>Sivir<br>Soraka<br>Kassadin<br>Riven<br>Taric<br>Sona<br>Leona<br>Fizz<br>Janna<br>Zac<br>
+olaf	Kayle<br>Elise<br>Yorick<br>Pantheon<br>Kennen<br>Talon<br>Tryndamere<br>Volibear<br>Darius<br>Jarvan IV<br>Jax<br>Vladimir<br>
+orianna	Ziggs<br>Syndra<br>Diana<br>Zed<br>LeBlanc<br>Gragas<br>Ahri<br>Akali<br>Yasuo<br>Lux<br>Talon<br>Xerath<br>
+ornn	Fiora<br>Darius<br>Jax<br>Swain<br>Tryndamere<br>Gnar<br>Yasuo<br>Teemo<br>Heimerdinger<br>Akali<br>Kayle<br>Vladimir<br>
+pantheon	Olaf<br>Elise<br>Shen<br>Darius<br>Malphite<br>Udyr<br>Ryze<br>Yorick<br>Volibear<br>Cho'Gath<br>Garen<br>Aatrox<br>
+poppy	Olaf<br>Darius<br>Renekton<br>Teemo<br>Rumble<br>Kennen<br>Shen<br>Irelia<br>Wukong<br>Garen<br>Cho'Gath<br>Vayne<br>
+quinn	Caitlyn<br>Varus<br>Miss Fortune<br>Caitlyn<br>Graves<br>Tristana<br>Draven<br>Corki<br>Vladimir<br>Sivir<br>Pantheon<br>Aatrox<br>
+rakan	Bard<br>Lulu<br>Sona<br>Morgana<br>Soraka<br>Alistar<br>Kalista<br>Janna<br>Zyra<br>Karma<br>Zilean<br>Aatrox<br>
+rammus	Trundle<br>Soraka<br>Rek'sai<br>Vi<br>Morgana<br>Shyvana<br>Malzahar<br>Lee Sin<br>Olaf<br>Cho'Gath<br>Dr. Mundo<br>Janna<br>
+reksai	Fizz<br>Darius<br>Irelia<br>Gangplank<br>Jayce<br>Kennen<br>Jayce<br>Veigar<br>Lee Sin<br>Diana<br>Gangplank<br>Kled<br>
+renekton	Trundle<br>Vayne<br>Elise<br>Garen<br>Olaf<br>Kennen<br>Ryze<br>Shyvana<br>Pantheon<br>Rumble<br>Vladimir<br>Ryze<br>
+rengar	Jax<br>Fiora<br>Pantheon<br>Renekton<br>Lee Sin<br>Darius<br>Riven<br>Ekko<br>Teemo<br>Rek'sai<br>Garen<br>Irelia<br>
+riven	Garen<br>Pantheon<br>Kennen<br>Olaf<br>Darius<br>Cho'Gath<br>Volibear<br>Renekton<br>Malphite<br>Jax<br>Fiora<br>Irelia<br>
+rumble	Yorick<br>Viktor<br>Elise<br>Darius<br>Xin Zhao<br>Jayce<br>Riven<br>Tryndamere<br>Aatrox<br>Nautilus<br>Wukong<br>Renekton<br>
+ryze	Cassiopeia<br>Orianna<br>Xerath<br>Urgot<br>Ziggs<br>Anivia<br>Brand<br>Lux<br>Yorick<br>Irelia<br>Jarvan IV<br>Aatrox<br>
+sejuani	Evelynn<br>Xin Zhao<br>Vi<br>Twitch<br>Pantheon<br>Lee Sin<br>Elise<br>Nocturne<br>Olaf<br>Zilean<br>Vladimir<br>Aatrox<br>
+shaco	Lee Sin<br>Udyr<br>Shyvana<br>Rek'sai<br>Annie<br>Vi<br>Warwick<br>Riven<br>Olaf<br>Viktor<br>Ashe<br>Yasuo<br>
+shen	Yorick<br>Jayce<br>Warwick<br>Vladimir<br>Teemo<br>Darius<br>Jax<br>Olaf<br>Renekton<br>Garen<br>Aatrox<br>Cho'Gath<br>
+shyvana	Olaf<br>Pantheon<br>Trundle<br>Lee Sin<br>Elise<br>Ryze<br>Darius<br>Teemo<br>Singed<br>Akali<br>Vladimir<br>Rumble<br>
+singed	Teemo<br>Kayle<br>Gnar<br>Elise<br>Vladimir<br>Jayce<br>Pantheon<br>Kennen<br>Rumble<br>Yorick<br>Nidalee<br>Darius<br>
+sion	Pantheon<br>Garen<br>Riven<br>Darius<br>Jax<br>Ahri<br>Nasus<br>Morgana<br>Akali<br>Teemo<br>Gnar<br>Cho'Gath<br>
+sivir	Vayne<br>Draven<br>Twitch<br>Kog'Maw<br>Kha'Zix<br>Tristana<br>Lucian<br>Kalista<br>Miss Fortune<br>Draven<br>Corki<br>Aatrox<br>
+skarner	Morgana<br>Trundle<br>Xin Zhao<br>Cassiopeia<br>Gangplank<br>Olaf<br>Pantheon<br>Gangplank<br>Shaco<br>Aatrox<br>Shyvana<br>Nunu<br>
+sona	Blitzcrank<br>Leona<br>Thresh<br>Miss Fortune<br>Draven<br>Nautilus<br>Aatrox<br>Taric<br>Graves<br>Nidalee<br>Zyra<br>Lux<br>
+soraka	Gnar<br>Miss Fortune<br>Ahri<br>Blitzcrank<br>Varus<br>Zac<br>Tristana<br>Cassiopeia<br>Ziggs<br>Orianna<br>Kayle<br>Aatrox<br>
+swain	Viktor<br>Lux<br>Syndra<br>LeBlanc<br>Galio<br>Ziggs<br>Cassiopeia<br>Fizz<br>Fizz<br>Teemo<br>Annie<br>Malzahar<br>
+syndra	Fizz<br>Kayle<br>Yasuo<br>Talon<br>Lux<br>Kassadin<br>Morgana<br>Akali<br>Zed<br>Xerath<br>Aatrox<br>Ahri<br>
+tahmkench	Janna<br>Vayne<br>Singed<br>Gnar<br>Jax<br>Kayle<br>Teemo<br>Olaf<br>Gangplank<br>Jhin<br>Aatrox<br>Xayah<br>
+taliyah	Zed<br>Syndra<br>Katarina<br>Fizz<br>Syndra<br>Teemo<br>Veigar<br>Yasuo<br>Lee Sin<br>Kassadin<br>LeBlanc<br>LeBlanc<br>
+talon	Yorick<br>Lee Sin<br>Pantheon<br>Diana<br>Mordekaiser<br>Kayle<br>Swain<br>Shyvana<br>Riven<br>Fizz<br>Aatrox<br>Gragas<br>
+taric	Sivir<br>Lulu<br>Morgana<br>Nami<br>Varus<br>Aatrox<br>Corki<br>Zyra<br>Mordekaiser<br>Leona<br>Tristana<br>Thresh<br>
+teemo	Yorick<br>Pantheon<br>Akali<br>Rumble<br>Cho'Gath<br>Zed<br>Wukong<br>Jayce<br>Dr. Mundo<br>Olaf<br>Lee Sin<br>Sion<br>
+thresh	Lulu<br>Morgana<br>Alistar<br>Lucian<br>Janna<br>Zyra<br>Sivir<br>Ezreal<br>Morgana<br>Kalista<br>Nami<br>Aatrox<br>
+tristana	Corki<br>Diana<br>Lucian<br>Draven<br>Sivir<br>Twitch<br>Jinx<br>Soraka<br>Caitlyn<br>Kog'Maw<br>Thresh<br>Quinn<br>
+trundle	Ziggs<br>Darius<br>Pantheon<br>Kennen<br>Sona<br>Vladimir<br>Teemo<br>Jax<br>Aatrox<br>Fiora<br>Taric<br>Riven<br>
+tryndamere	Teemo<br>Rammus<br>Pantheon<br>Renekton<br>Jax<br>Malphite<br>Cho'Gath<br>Ryze<br>Teemo<br>Nasus<br>Garen<br>Fiora<br>
+twistedfate	Fizz<br>Diana<br>Yasuo<br>Kassadin<br>LeBlanc<br>Ziggs<br>Zed<br>Akali<br>Ahri<br>Master Yi<br>Veigar<br>Talon<br>
+twitch	Lee Sin<br>Caitlyn<br>Corki<br>Jinx<br>Quinn<br>Draven<br>Lulu<br>Varus<br>Annie<br>Lucian<br>Tristana<br>Aatrox<br>
+udyr	Ashe<br>Elise<br>Jax<br>Kayle<br>Trundle<br>Teemo<br>Riven<br>Ahri<br>Jarvan IV<br>Aatrox<br>Nunu<br>Nasus<br>
+urgot	Bard<br>Soraka<br>Sivir<br>Nidalee<br>Nami<br>Twitch<br>Vayne<br>Yasuo<br>Graves<br>Fizz<br>Tryndamere<br>Trundle<br>
+varus	Graves<br>Lucian<br>Sivir<br>Leona<br>Blitzcrank<br>Tristana<br>Ahri<br>Lucian<br>Aatrox<br>Thresh<br>Teemo<br>Miss Fortune<br>
+vayne	Caitlyn<br>Quinn<br>Draven<br>Tristana<br>Ashe<br>Corki<br>Varus<br>Graves<br>Twitch<br>Miss Fortune<br>Sona<br>Kog'Maw<br>
+veigar	Fizz<br>Talon<br>Zed<br>Kassadin<br>LeBlanc<br>Ryze<br>Galio<br>Katarina<br>Yasuo<br>Xerath<br>Swain<br>Akali<br>
+velkoz	Yasuo<br>LeBlanc<br>Fizz<br>Talon<br>Akali<br>Zed<br>Katarina<br>Ahri<br>Diana<br>Nidalee<br>Syndra<br>Kassadin<br>
+vi	Riven<br>Pantheon<br>Jax<br>Lee Sin<br>Darius<br>Teemo<br>Karma<br>Xin Zhao<br>Poppy<br>Xin Zhao<br>Renekton<br>Garen<br>
+viktor	Brand<br>Ziggs<br>Talon<br>Zed<br>Syndra<br>Lux<br>LeBlanc<br>Fizz<br>Annie<br>Diana<br>Nidalee<br>Yasuo<br>
+vladimir	Swain<br>Jarvan IV<br>Fiddlesticks<br>Malzahar<br>Xin Zhao<br>Irelia<br>Riven<br>Yorick<br>Nidalee<br>Fiora<br>Garen<br>Fizz<br>
+volibear	Teemo<br>Elise<br>Jayce<br>Darius<br>Renekton<br>Pantheon<br>Kennen<br>Kayle<br>Aatrox<br>Gnar<br>Wukong<br>Vayne<br>
+warwick	Yorick<br>Swain<br>Renekton<br>Udyr<br>Kayle<br>Olaf<br>Aatrox<br>Lee Sin<br>Rumble<br>Nocturne<br>Darius<br>Jax<br>
+wukong	Lee Sin<br>Darius<br>Pantheon<br>Garen<br>Renekton<br>Olaf<br>Nasus<br>Shyvana<br>Soraka<br>Fiora<br>Riven<br>Lee Sin<br>
+xayah	Miss Fortune<br>Tristana<br>Draven<br>Kalista<br>Varus<br>Ezreal<br>Caitlyn<br>Jhin<br>Jinx<br>Kalista<br>Lucian<br>Twitch<br>
+xerath	Ahri<br>Gragas<br>Zed<br>Syndra<br>Fizz<br>Kassadin<br>LeBlanc<br>Katarina<br>Aatrox<br>Viktor<br>Yasuo<br>Kalista<br>
+xinzhao	Jax<br>Fiora<br>Pantheon<br>Malphite<br>Malphite<br>Teemo<br>Volibear<br>Tryndamere<br>Wukong<br>Aatrox<br>Renekton<br>Udyr<br>
+yasuo	Jax<br>Malzahar<br>Kayle<br>Fiora<br>Darius<br>Swain<br>Akali<br>Annie<br>Riven<br>Xin Zhao<br>Soraka<br>Fizz<br>
+yorick	Cho'Gath<br>Nunu<br>Trundle<br>Xin Zhao<br>Irelia<br>Lee Sin<br>Aatrox<br>Renekton<br>Rengar<br>Riven<br>Nocturne<br>Aatrox<br>
+zac	Vi<br>Zilean<br>Yorick<br>Vladimir<br>Renekton<br>Fizz<br>Aatrox<br>Darius<br>Riven<br>Kindred<br>Vayne<br>Teemo<br>
+zed	Kayle<br>Jax<br>Lissandra<br>Kayle<br>Irelia<br>Malzahar<br>Wukong<br>Nasus<br>Vladimir<br>Diana<br>Talon<br>Singed<br>
+ziggs	LeBlanc<br>Syndra<br>Talon<br>Yasuo<br>Xerath<br>Brand<br>Kassadin<br>Zed<br>Akali<br>Fizz<br>Veigar<br>Gragas<br>
+zilean	Annie<br>Sivir<br>Blitzcrank<br>Morgana<br>Amumu<br>Lux<br>Soraka<br>Kassadin<br>Pantheon<br>Xerath<br>Fizz<br>Fiddlesticks<br>
+zyra	Fizz<br>Katarina<br>Talon<br>Diana<br>LeBlanc<br>Kassadin<br>Akali<br>Ahri<br>Ahri<br>Ziggs<br>Gragas<br>Kindred<br>

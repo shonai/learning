@@ -1,0 +1,1680 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lol Counters</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style type="text/css">
+    .bs-example{
+        margin: 20px;
+    }
+</style>
+</head>
+<body>
+<div class="bs-example">
+    <div class="panel-group" id="accordion">
+                            <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse0">aatrox</a>
+                </h4>
+            </div>
+            <div id="collapse0" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Jax<br>Teemo<br>Pantheon<br>Fiora<br>Renekton<br>Riven<br>Tryndamere<br>Irelia<br>Wukong<br>Nasus<br>Gangplank<br>Jayce<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">ahri</a>
+                </h4>
+            </div>
+            <div id="collapse1" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>LeBlanc<br>Swain<br>Yasuo<br>Diana<br>Syndra<br>Talon<br>Malzahar<br>Annie<br>Kassadin<br>Fizz<br>Akali<br>Lissandra<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">akali</a>
+                </h4>
+            </div>
+            <div id="collapse2" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Lee Sin<br>Mordekaiser<br>Rumble<br>Annie<br>Garen<br>Malzahar<br>Diana<br>Renekton<br>Syndra<br>LeBlanc<br>Fiddlesticks<br>Swain<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">alistar</a>
+                </h4>
+            </div>
+            <div id="collapse3" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Janna<br>Tristana<br>Vayne<br>Lulu<br>Morgana<br>Ezreal<br>Soraka<br>Jarvan IV<br>Sona<br>Caitlyn<br>Olaf<br>Lux<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">amumu</a>
+                </h4>
+            </div>
+            <div id="collapse4" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Shyvana<br>Xin Zhao<br>Lee Sin<br>Shaco<br>Ekko<br>Vi<br>Corki<br>Kha'Zix<br>Irelia<br>Dr. Mundo<br>Warwick<br>Olaf<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">anivia</a>
+                </h4>
+            </div>
+            <div id="collapse5" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Fizz<br>Diana<br>Kassadin<br>LeBlanc<br>Orianna<br>Talon<br>Zed<br>Nautilus<br>Syndra<br>Gragas<br>Brand<br>Ziggs<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">annie</a>
+                </h4>
+            </div>
+            <div id="collapse6" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Brand<br>Orianna<br>Lux<br>LeBlanc<br>Morgana<br>Sion<br>Kassadin<br>Syndra<br>Syndra<br>Heimerdinger<br>Galio<br>Xerath<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">ashe</a>
+                </h4>
+            </div>
+            <div id="collapse7" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Ezreal<br>Draven<br>Jinx<br>Kha'Zix<br>Graves<br>Sivir<br>Caitlyn<br>Lucian<br>Master Yi<br>Taric<br>Quinn<br>Varus<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">aurelionsol</a>
+                </h4>
+            </div>
+            <div id="collapse8" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Fizz<br>Ekko<br>Fizz<br>Zed<br>LeBlanc<br>Yasuo<br>Orianna<br>Ahri<br>Rengar<br>Zed<br>Katarina<br>Akali<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">azir</a>
+                </h4>
+            </div>
+            <div id="collapse9" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Ziggs<br>Talon<br>Xerath<br>Syndra<br>Fizz<br>Ahri<br>Zed<br>Malzahar<br>Lux<br>Kassadin<br>Veigar<br>Akali<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">bard</a>
+                </h4>
+            </div>
+            <div id="collapse10" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Morgana<br>Sivir<br>Blitzcrank<br>Teemo<br>Thresh<br>Jarvan IV<br>Soraka<br>Zyra<br>Karma<br>Braum<br>Nautilus<br>Jinx<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse11">blitzcrank</a>
+                </h4>
+            </div>
+            <div id="collapse11" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Leona<br>Morgana<br>Alistar<br>Sivir<br>Ezreal<br>Thresh<br>Braum<br>Illaoi<br>Amumu<br>Taric<br>Janna<br>Tahm Kench<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse12">brand</a>
+                </h4>
+            </div>
+            <div id="collapse12" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Kassadin<br>Galio<br>Zed<br>Fizz<br>LeBlanc<br>Lux<br>Akali<br>Syndra<br>Xerath<br>Diana<br>Ziggs<br>Pantheon<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse13">braum</a>
+                </h4>
+            </div>
+            <div id="collapse13" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Morgana<br>Zyra<br>Karma<br>Lulu<br>Leona<br>Soraka<br>Alistar<br>Vayne<br>Janna<br>Nami<br>Sona<br>Zilean<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse14">caitlyn</a>
+                </h4>
+            </div>
+            <div id="collapse14" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Sivir<br>Jinx<br>Varus<br>Braum<br>Jinx<br>Tristana<br>Lucian<br>Yasuo<br>Leona<br>Kog'Maw<br>Blitzcrank<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse15">camille</a>
+                </h4>
+            </div>
+            <div id="collapse15" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Illaoi<br>Jax<br>Kled<br>Poppy<br>Fiora<br>Tahm Kench<br>Teemo<br>Riven<br>Poppy<br>Renekton<br>Nasus<br>Pantheon<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse16">cassiopeia</a>
+                </h4>
+            </div>
+            <div id="collapse16" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Galio<br>Diana<br>Talon<br>LeBlanc<br>Lux<br>Veigar<br>Fizz<br>Syndra<br>Orianna<br>Ahri<br>Zed<br>Yasuo<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse17">chogath</a>
+                </h4>
+            </div>
+            <div id="collapse17" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Warwick<br>Kog'Maw<br>Renekton<br>Jax<br>Vayne<br>Garen<br>Kayle<br>Lee Sin<br>Aatrox<br>Irelia<br>Riven<br>Fizz<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse18">corki</a>
+                </h4>
+            </div>
+            <div id="collapse18" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Caitlyn<br>Draven<br>LeBlanc<br>Graves<br>Ashe<br>Urgot<br>Varus<br>Lucian<br>Ahri<br>Zilean<br>Graves<br>Kog'Maw<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse19">darius</a>
+                </h4>
+            </div>
+            <div id="collapse19" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Yorick<br>Kayle<br>Jayce<br>Zed<br>Jax<br>Teemo<br>Aatrox<br>Pantheon<br>Renekton<br>Elise<br>Kennen<br>Cho'Gath<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse20">diana</a>
+                </h4>
+            </div>
+            <div id="collapse20" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Mordekaiser<br>Cho'Gath<br>Irelia<br>Heimerdinger<br>Syndra<br>Swain<br>Riven<br>Malzahar<br>Karma<br>Aatrox<br>Annie<br>Yasuo<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse21">drmundo</a>
+                </h4>
+            </div>
+            <div id="collapse21" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Olaf<br>Trundle<br>Kog'Maw<br>Fizz<br>Shyvana<br>Darius<br>Riven<br>Teemo<br>Jarvan IV<br>Aatrox<br>Elise<br>Miss Fortune<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse22">draven</a>
+                </h4>
+            </div>
+            <div id="collapse22" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Varus<br>Thresh<br>Blitzcrank<br>Nami<br>Caitlyn<br>Quinn<br>Leona<br>Ashe<br>Aatrox<br>Kog'Maw<br>Taric<br>Urgot<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse23">ekko</a>
+                </h4>
+            </div>
+            <div id="collapse23" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>LeBlanc<br>Cho'Gath<br>Diana<br>Xin Zhao<br>Tryndamere<br>Heimerdinger<br>Yasuo<br>Kassadin<br>Cassiopeia<br>Fiora<br>Renekton<br>Azir<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse24">elise</a>
+                </h4>
+            </div>
+            <div id="collapse24" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Kassadin<br>Yorick<br>Wukong<br>Gangplank<br>Mordekaiser<br>Malzahar<br>LeBlanc<br>Maokai<br>Pantheon<br>Lee Sin<br>Riven<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse25">evelynn</a>
+                </h4>
+            </div>
+            <div id="collapse25" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Ryze<br>Rek'sai<br>Heimerdinger<br>Anivia<br>Kassadin<br>Twisted Fate<br>Caitlyn<br>Cassiopeia<br>Mordekaiser<br>Ahri<br>Xin Zhao<br>Twisted Fate<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse26">ezreal</a>
+                </h4>
+            </div>
+            <div id="collapse26" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Draven<br>Graves<br>Miss Fortune<br>Akali<br>Twitch<br>Kalista<br>Caitlyn<br>Sivir<br>Tristana<br>Vayne<br>Corki<br>Fizz<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse27">fiddlesticks</a>
+                </h4>
+            </div>
+            <div id="collapse27" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Evelynn<br>Janna<br>Kassadin<br>Xin Zhao<br>Tristana<br>Diana<br>Cho'Gath<br>Ahri<br>Alistar<br>Talon<br>Udyr<br>Cassiopeia<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse28">fiora</a>
+                </h4>
+            </div>
+            <div id="collapse28" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Jax<br>Pantheon<br>Riven<br>Renekton<br>Darius<br>Singed<br>Malphite<br>Kayle<br>Shen<br>Volibear<br>Xin Zhao<br>Irelia<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse29">fizz</a>
+                </h4>
+            </div>
+            <div id="collapse29" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Kayle<br>Lissandra<br>Ryze<br>Mordekaiser<br>Annie<br>Diana<br>LeBlanc<br>Akali<br>Malzahar<br>LeBlanc<br>Karma<br>Xerath<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse30">galio</a>
+                </h4>
+            </div>
+            <div id="collapse30" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Udyr<br>Braum<br>Irelia<br>Janna<br>Talon<br>Yasuo<br>Malphite<br>Riven<br>Talon<br>Ahri<br>Kha'Zix<br>Twisted Fate<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse31">gangplank</a>
+                </h4>
+            </div>
+            <div id="collapse31" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Pantheon<br>Fiora<br>Riven<br>Poppy<br>Udyr<br>Jax<br>Renekton<br>Irelia<br>Darius<br>Wukong<br>Rumble<br>Vladimir<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse32">garen</a>
+                </h4>
+            </div>
+            <div id="collapse32" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Teemo<br>Gnar<br>Elise<br>Darius<br>Pantheon<br>Yorick<br>Jayce<br>Aatrox<br>Nidalee<br>Ryze<br>Shyvana<br>Vladimir<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse33">gnar</a>
+                </h4>
+            </div>
+            <div id="collapse33" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Wukong<br>Pantheon<br>Nidalee<br>Irelia<br>Fiora<br>Teemo<br>Jayce<br>Vladimir<br>Darius<br>Riven<br>Yasuo<br>Olaf<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse34">gragas</a>
+                </h4>
+            </div>
+            <div id="collapse34" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Yasuo<br>Yasuo<br>Ahri<br>LeBlanc<br>Evelynn<br>Annie<br>Mordekaiser<br>Fizz<br>Fizz<br>Syndra<br>Ziggs<br>Talon<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse35">graves</a>
+                </h4>
+            </div>
+            <div id="collapse35" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Caitlyn<br>Sivir<br>Urgot<br>Corki<br>Miss Fortune<br>Draven<br>Tristana<br>Kog'Maw<br>Aatrox<br>Amumu<br>Braum<br>Taric<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse36">hecarim</a>
+                </h4>
+            </div>
+            <div id="collapse36" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Nasus<br>Sejuani<br>Aatrox<br>Sejuani<br>Vi<br>Sejuani<br>Garen<br>Dr. Mundo<br>Darius<br>Nasus<br>Lee Sin<br>Janna<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse37">heimerdinger</a>
+                </h4>
+            </div>
+            <div id="collapse37" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Syndra<br>Malzahar<br>Xerath<br>Lux<br>Ziggs<br>Brand<br>Nunu<br>Vel'Koz<br>Orianna<br>Gragas<br>Anivia<br>Veigar<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse38">illaoi</a>
+                </h4>
+            </div>
+            <div id="collapse38" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Lulu<br>Vayne<br>Tryndamere<br>Jarvan IV<br>Fiora<br>Nasus<br>Irelia<br>Yasuo<br>Olaf<br>Janna<br>Veigar<br>Ziggs<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse39">irelia</a>
+                </h4>
+            </div>
+            <div id="collapse39" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Olaf<br>Udyr<br>Garen<br>Darius<br>Pantheon<br>Nasus<br>Renekton<br>Jax<br>Yorick<br>Volibear<br>Fiora<br>Malphite<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse40">ivern</a>
+                </h4>
+            </div>
+            <div id="collapse40" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Illaoi<br>Urgot<br>Amumu<br>Rengar<br>Aatrox<br>Kindred<br>Rumble<br>Xin Zhao<br>Ahri<br>Kha'Zix<br>Lee Sin<br>Zac<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse41">janna</a>
+                </h4>
+            </div>
+            <div id="collapse41" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Sona<br>Nami<br>Sivir<br>Blitzcrank<br>Diana<br>Nidalee<br>Zyra<br>Dr. Mundo<br>Hecarim<br>Graves<br>Zilean<br>Sona<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse42">jarvaniv</a>
+                </h4>
+            </div>
+            <div id="collapse42" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Yorick<br>Elise<br>Renekton<br>Vi<br>Jax<br>Lee Sin<br>Shen<br>Tryndamere<br>Pantheon<br>Garen<br>Irelia<br>Xin Zhao<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse43">jax</a>
+                </h4>
+            </div>
+            <div id="collapse43" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Malphite<br>Pantheon<br>Singed<br>Renekton<br>Ryze<br>Jayce<br>Gnar<br>Garen<br>Nasus<br>Rumble<br>Shyvana<br>Wukong<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse44">jayce</a>
+                </h4>
+            </div>
+            <div id="collapse44" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Yorick<br>Xin Zhao<br>Fiora<br>Pantheon<br>Wukong<br>Nidalee<br>Irelia<br>Aatrox<br>Jarvan IV<br>Elise<br>Renekton<br>Cho'Gath<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse45">jhin</a>
+                </h4>
+            </div>
+            <div id="collapse45" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Vayne<br>Lucian<br>Caitlyn<br>Jinx<br>Bard<br>Miss Fortune<br>Ezreal<br>Varus<br>Tristana<br>Draven<br>Miss Fortune<br>Kalista<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse46">jinx</a>
+                </h4>
+            </div>
+            <div id="collapse46" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Ezreal<br>Corki<br>Sivir<br>Varus<br>Quinn<br>Draven<br>Lucian<br>Tristana<br>Graves<br>Twitch<br>Aatrox<br>Ashe<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse47">kalista</a>
+                </h4>
+            </div>
+            <div id="collapse47" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Ashe<br>Caitlyn<br>Graves<br>Vayne<br>Master Yi<br>Quinn<br>Talon<br>Alistar<br>Yasuo<br>Sona<br>Kog'Maw<br>Teemo<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse48">karma</a>
+                </h4>
+            </div>
+            <div id="collapse48" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Veigar<br>Swain<br>Malzahar<br>Xerath<br>Nami<br>Talon<br>Kassadin<br>Syndra<br>Gragas<br>Karthus<br>Aatrox<br>Sona<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse49">karthus</a>
+                </h4>
+            </div>
+            <div id="collapse49" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Soraka<br>Kassadin<br>Fizz<br>LeBlanc<br>Katarina<br>Lux<br>Akali<br>Veigar<br>Ahri<br>Orianna<br>Master Yi<br>Ziggs<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse50">kassadin</a>
+                </h4>
+            </div>
+            <div id="collapse50" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Talon<br>Pantheon<br>Heimerdinger<br>Kha'Zix<br>Jax<br>Zed<br>Mordekaiser<br>Nocturne<br>Diana<br>Swain<br>Fizz<br>Kayle<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse51">katarina</a>
+                </h4>
+            </div>
+            <div id="collapse51" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Diana<br>Fiddlesticks<br>Malzahar<br>Lissandra<br>Lulu<br>Riven<br>LeBlanc<br>Heimerdinger<br>Fizz<br>Talon<br>Annie<br>Cho'Gath<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse52">kayle</a>
+                </h4>
+            </div>
+            <div id="collapse52" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Orianna<br>Annie<br>Pantheon<br>Ziggs<br>Xin Zhao<br>Gragas<br>Anivia<br>Jarvan IV<br>Aatrox<br>Malzahar<br>Lux<br>LeBlanc<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse53">kayn</a>
+                </h4>
+            </div>
+            <div id="collapse53" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Kindred<br>Xin Zhao<br>Renekton<br>Garen<br>Warwick<br>Kha'Zix<br>Tryndamere<br>Jax<br>Lee Sin<br>Wukong<br>Heimerdinger<br>Jayce<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse54">kennen</a>
+                </h4>
+            </div>
+            <div id="collapse54" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Diana<br>Janna<br>Vladimir<br>Yorick<br>Swain<br>Ryze<br>LeBlanc<br>Irelia<br>Jarvan IV<br>Renekton<br>Kayle<br>Mordekaiser<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse55">khazix</a>
+                </h4>
+            </div>
+            <div id="collapse55" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Lee Sin<br>Yorick<br>Pantheon<br>Jayce<br>Rengar<br>Tryndamere<br>Jax<br>Ryze<br>Riven<br>Aatrox<br>Renekton<br>Poppy<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse56">kindred</a>
+                </h4>
+            </div>
+            <div id="collapse56" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Lee Sin<br>Diana<br>Gragas<br>Vayne<br>Jax<br>Swain<br>Xin Zhao<br>LeBlanc<br>Tryndamere<br>Cassiopeia<br>Kalista<br>Tahm Kench<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse57">kled</a>
+                </h4>
+            </div>
+            <div id="collapse57" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Fiora<br>Tahm Kench<br>Gnar<br>Renekton<br>Shen<br>Yasuo<br>Jax<br>Teemo<br>Aatrox<br>Pantheon<br>Riven<br>Trundle<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse58">kogmaw</a>
+                </h4>
+            </div>
+            <div id="collapse58" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Blitzcrank<br>Lucian<br>Miss Fortune<br>Ashe<br>Poppy<br>Akali<br>Jinx<br>Ezreal<br>Teemo<br>Jinx<br>Draven<br>Sivir<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse59">leblanc</a>
+                </h4>
+            </div>
+            <div id="collapse59" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Galio<br>Morgana<br>Talon<br>Syndra<br>Diana<br>Annie<br>Mordekaiser<br>Karma<br>Heimerdinger<br>Fizz<br>Malzahar<br>Fiddlesticks<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse60">leesin</a>
+                </h4>
+            </div>
+            <div id="collapse60" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Trundle<br>Udyr<br>Pantheon<br>Udyr<br>Riven<br>Renekton<br>Garen<br>Cho'Gath<br>Singed<br>Xin Zhao<br>Jax<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse61">leona</a>
+                </h4>
+            </div>
+            <div id="collapse61" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Morgana<br>Alistar<br>Janna<br>Lulu<br>Karma<br>Zyra<br>Thresh<br>Braum<br>Annie<br>Taric<br>Maokai<br>Nautilus<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse62">lissandra</a>
+                </h4>
+            </div>
+            <div id="collapse62" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Kassadin<br>Syndra<br>Diana<br>Anivia<br>Brand<br>LeBlanc<br>Aatrox<br>Ahri<br>Annie<br>Orianna<br>Xerath<br>Malzahar<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse63">lucian</a>
+                </h4>
+            </div>
+            <div id="collapse63" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Vayne<br>Draven<br>Tristana<br>Graves<br>Caitlyn<br>Vayne<br>Miss Fortune<br>Ezreal<br>Quinn<br>Aatrox<br>Sivir<br>Corki<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse64">lulu</a>
+                </h4>
+            </div>
+            <div id="collapse64" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Orianna<br>Syndra<br>Soraka<br>Brand<br>Ziggs<br>Morgana<br>Sona<br>Azir<br>Sion<br>Wukong<br>Amumu<br>Talon<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse65">lux</a>
+                </h4>
+            </div>
+            <div id="collapse65" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Talon<br>Gragas<br>Fizz<br>Yasuo<br>Zed<br>Kassadin<br>Orianna<br>Brand<br>Diana<br>Nidalee<br>Ziggs<br>Ahri<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse66">malphite</a>
+                </h4>
+            </div>
+            <div id="collapse66" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Rumble<br>Zac<br>Olaf<br>Shen<br>Yorick<br>Cho'Gath<br>Darius<br>Renekton<br>Vladimir<br>Garen<br>Darius<br>Annie<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse67">malzahar</a>
+                </h4>
+            </div>
+            <div id="collapse67" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Gangplank<br>Syndra<br>Morgana<br>Galio<br>Talon<br>Annie<br>Brand<br>Ziggs<br>Lux<br>LeBlanc<br>Vel'Koz<br>Diana<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse68">maokai</a>
+                </h4>
+            </div>
+            <div id="collapse68" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Shyvana<br>Nasus<br>Pantheon<br>Dr. Mundo<br>Swain<br>Yorick<br>Darius<br>Singed<br>Cho'Gath<br>Shyvana<br>Vladimir<br>Shyvana<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse69">masteryi</a>
+                </h4>
+            </div>
+            <div id="collapse69" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Jax<br>Tryndamere<br>Pantheon<br>Teemo<br>Rammus<br>Cho'Gath<br>Master Yi<br>Aatrox<br>Riven<br>Fiora<br>Renekton<br>Wukong<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse70">missfortune</a>
+                </h4>
+            </div>
+            <div id="collapse70" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Tristana<br>Draven<br>Taric<br>Quinn<br>Caitlyn<br>Braum<br>Caitlyn<br>Varus<br>Lucian<br>Corki<br>Yasuo<br>Shaco<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse71">mordekaiser</a>
+                </h4>
+            </div>
+            <div id="collapse71" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Zyra<br>Lux<br>Yorick<br>Malzahar<br>Cassiopeia<br>Garen<br>Swain<br>Darius<br>Brand<br>Swain<br>Kayle<br>Orianna<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse72">morgana</a>
+                </h4>
+            </div>
+            <div id="collapse72" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Karma<br>Talon<br>Zed<br>Vladimir<br>Fizz<br>Janna<br>Mordekaiser<br>Katarina<br>Malzahar<br>Sona<br>Aatrox<br>Ryze<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse73">nami</a>
+                </h4>
+            </div>
+            <div id="collapse73" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Lulu<br>Ezreal<br>Fizz<br>Blitzcrank<br>Leona<br>Yasuo<br>Sona<br>Morgana<br>Alistar<br>Janna<br>Braum<br>Soraka<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse74">nasus</a>
+                </h4>
+            </div>
+            <div id="collapse74" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Olaf<br>Teemo<br>Rumble<br>Pantheon<br>Ryze<br>Darius<br>Volibear<br>Fiora<br>Trundle<br>Garen<br>Vladimir<br>Shyvana<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse75">nautilus</a>
+                </h4>
+            </div>
+            <div id="collapse75" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Shyvana<br>Yorick<br>Morgana<br>Vi<br>Aatrox<br>Shaco<br>Kennen<br>Darius<br>Olaf<br>Vladimir<br>Dr. Mundo<br>Trundle<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse76">nidalee</a>
+                </h4>
+            </div>
+            <div id="collapse76" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Yasuo<br>Pantheon<br>Akali<br>Zed<br>LeBlanc<br>Fizz<br>Katarina<br>Talon<br>Swain<br>Veigar<br>Diana<br>Xerath<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse77">nocturne</a>
+                </h4>
+            </div>
+            <div id="collapse77" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Olaf<br>Lee Sin<br>Alistar<br>Udyr<br>Tryndamere<br>Aatrox<br>Vi<br>Shyvana<br>Shaco<br>Pantheon<br>Singed<br>Lucian<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse78">nunu</a>
+                </h4>
+            </div>
+            <div id="collapse78" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Cassiopeia<br>Sona<br>Sivir<br>Soraka<br>Kassadin<br>Riven<br>Taric<br>Sona<br>Leona<br>Fizz<br>Janna<br>Zac<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse79">olaf</a>
+                </h4>
+            </div>
+            <div id="collapse79" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Kayle<br>Elise<br>Yorick<br>Pantheon<br>Kennen<br>Talon<br>Tryndamere<br>Volibear<br>Darius<br>Jarvan IV<br>Jax<br>Vladimir<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse80">orianna</a>
+                </h4>
+            </div>
+            <div id="collapse80" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Ziggs<br>Syndra<br>Diana<br>Zed<br>LeBlanc<br>Gragas<br>Ahri<br>Akali<br>Yasuo<br>Lux<br>Talon<br>Xerath<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse81">ornn</a>
+                </h4>
+            </div>
+            <div id="collapse81" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Fiora<br>Darius<br>Jax<br>Swain<br>Tryndamere<br>Gnar<br>Yasuo<br>Teemo<br>Heimerdinger<br>Akali<br>Kayle<br>Vladimir<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse82">pantheon</a>
+                </h4>
+            </div>
+            <div id="collapse82" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Olaf<br>Elise<br>Shen<br>Darius<br>Malphite<br>Udyr<br>Ryze<br>Yorick<br>Volibear<br>Cho'Gath<br>Garen<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse83">poppy</a>
+                </h4>
+            </div>
+            <div id="collapse83" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Olaf<br>Darius<br>Renekton<br>Teemo<br>Rumble<br>Kennen<br>Shen<br>Irelia<br>Wukong<br>Garen<br>Cho'Gath<br>Vayne<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse84">quinn</a>
+                </h4>
+            </div>
+            <div id="collapse84" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Caitlyn<br>Varus<br>Miss Fortune<br>Caitlyn<br>Graves<br>Tristana<br>Draven<br>Corki<br>Vladimir<br>Sivir<br>Pantheon<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse85">rakan</a>
+                </h4>
+            </div>
+            <div id="collapse85" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Bard<br>Lulu<br>Sona<br>Morgana<br>Soraka<br>Alistar<br>Kalista<br>Janna<br>Zyra<br>Karma<br>Zilean<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse86">rammus</a>
+                </h4>
+            </div>
+            <div id="collapse86" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Trundle<br>Soraka<br>Rek'sai<br>Vi<br>Morgana<br>Shyvana<br>Malzahar<br>Lee Sin<br>Olaf<br>Cho'Gath<br>Dr. Mundo<br>Janna<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse87">reksai</a>
+                </h4>
+            </div>
+            <div id="collapse87" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Fizz<br>Darius<br>Irelia<br>Gangplank<br>Jayce<br>Kennen<br>Jayce<br>Veigar<br>Lee Sin<br>Diana<br>Gangplank<br>Kled<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse88">renekton</a>
+                </h4>
+            </div>
+            <div id="collapse88" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Trundle<br>Vayne<br>Elise<br>Garen<br>Olaf<br>Kennen<br>Ryze<br>Shyvana<br>Pantheon<br>Rumble<br>Vladimir<br>Ryze<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse89">rengar</a>
+                </h4>
+            </div>
+            <div id="collapse89" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Jax<br>Fiora<br>Pantheon<br>Renekton<br>Lee Sin<br>Darius<br>Riven<br>Ekko<br>Teemo<br>Rek'sai<br>Garen<br>Irelia<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse90">riven</a>
+                </h4>
+            </div>
+            <div id="collapse90" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Garen<br>Pantheon<br>Kennen<br>Olaf<br>Darius<br>Cho'Gath<br>Volibear<br>Renekton<br>Malphite<br>Jax<br>Fiora<br>Irelia<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse91">rumble</a>
+                </h4>
+            </div>
+            <div id="collapse91" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Yorick<br>Viktor<br>Elise<br>Darius<br>Xin Zhao<br>Jayce<br>Riven<br>Tryndamere<br>Aatrox<br>Nautilus<br>Wukong<br>Renekton<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse92">ryze</a>
+                </h4>
+            </div>
+            <div id="collapse92" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Cassiopeia<br>Orianna<br>Xerath<br>Urgot<br>Ziggs<br>Anivia<br>Brand<br>Lux<br>Yorick<br>Irelia<br>Jarvan IV<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse93">sejuani</a>
+                </h4>
+            </div>
+            <div id="collapse93" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Evelynn<br>Xin Zhao<br>Vi<br>Twitch<br>Pantheon<br>Lee Sin<br>Elise<br>Nocturne<br>Olaf<br>Zilean<br>Vladimir<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse94">shaco</a>
+                </h4>
+            </div>
+            <div id="collapse94" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Lee Sin<br>Udyr<br>Shyvana<br>Rek'sai<br>Annie<br>Vi<br>Warwick<br>Riven<br>Olaf<br>Viktor<br>Ashe<br>Yasuo<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse95">shen</a>
+                </h4>
+            </div>
+            <div id="collapse95" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Yorick<br>Jayce<br>Warwick<br>Vladimir<br>Teemo<br>Darius<br>Jax<br>Olaf<br>Renekton<br>Garen<br>Aatrox<br>Cho'Gath<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse96">shyvana</a>
+                </h4>
+            </div>
+            <div id="collapse96" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Olaf<br>Pantheon<br>Trundle<br>Lee Sin<br>Elise<br>Ryze<br>Darius<br>Teemo<br>Singed<br>Akali<br>Vladimir<br>Rumble<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse97">singed</a>
+                </h4>
+            </div>
+            <div id="collapse97" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Teemo<br>Kayle<br>Gnar<br>Elise<br>Vladimir<br>Jayce<br>Pantheon<br>Kennen<br>Rumble<br>Yorick<br>Nidalee<br>Darius<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse98">sion</a>
+                </h4>
+            </div>
+            <div id="collapse98" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Pantheon<br>Garen<br>Riven<br>Darius<br>Jax<br>Ahri<br>Nasus<br>Morgana<br>Akali<br>Teemo<br>Gnar<br>Cho'Gath<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse99">sivir</a>
+                </h4>
+            </div>
+            <div id="collapse99" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Vayne<br>Draven<br>Twitch<br>Kog'Maw<br>Kha'Zix<br>Tristana<br>Lucian<br>Kalista<br>Miss Fortune<br>Draven<br>Corki<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse100">skarner</a>
+                </h4>
+            </div>
+            <div id="collapse100" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Morgana<br>Trundle<br>Xin Zhao<br>Cassiopeia<br>Gangplank<br>Olaf<br>Pantheon<br>Gangplank<br>Shaco<br>Aatrox<br>Shyvana<br>Nunu<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse101">sona</a>
+                </h4>
+            </div>
+            <div id="collapse101" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Blitzcrank<br>Leona<br>Thresh<br>Miss Fortune<br>Draven<br>Nautilus<br>Aatrox<br>Taric<br>Graves<br>Nidalee<br>Zyra<br>Lux<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse102">soraka</a>
+                </h4>
+            </div>
+            <div id="collapse102" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Gnar<br>Miss Fortune<br>Ahri<br>Blitzcrank<br>Varus<br>Zac<br>Tristana<br>Cassiopeia<br>Ziggs<br>Orianna<br>Kayle<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse103">swain</a>
+                </h4>
+            </div>
+            <div id="collapse103" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Viktor<br>Lux<br>Syndra<br>LeBlanc<br>Galio<br>Ziggs<br>Cassiopeia<br>Fizz<br>Fizz<br>Teemo<br>Annie<br>Malzahar<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse104">syndra</a>
+                </h4>
+            </div>
+            <div id="collapse104" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Fizz<br>Kayle<br>Yasuo<br>Talon<br>Lux<br>Kassadin<br>Morgana<br>Akali<br>Zed<br>Xerath<br>Aatrox<br>Ahri<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse105">tahmkench</a>
+                </h4>
+            </div>
+            <div id="collapse105" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Janna<br>Vayne<br>Singed<br>Gnar<br>Jax<br>Kayle<br>Teemo<br>Olaf<br>Gangplank<br>Jhin<br>Aatrox<br>Xayah<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse106">taliyah</a>
+                </h4>
+            </div>
+            <div id="collapse106" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Zed<br>Syndra<br>Katarina<br>Fizz<br>Syndra<br>Teemo<br>Veigar<br>Yasuo<br>Lee Sin<br>Kassadin<br>LeBlanc<br>LeBlanc<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse107">talon</a>
+                </h4>
+            </div>
+            <div id="collapse107" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Yorick<br>Lee Sin<br>Pantheon<br>Diana<br>Mordekaiser<br>Kayle<br>Swain<br>Shyvana<br>Riven<br>Fizz<br>Aatrox<br>Gragas<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse108">taric</a>
+                </h4>
+            </div>
+            <div id="collapse108" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Sivir<br>Lulu<br>Morgana<br>Nami<br>Varus<br>Aatrox<br>Corki<br>Zyra<br>Mordekaiser<br>Leona<br>Tristana<br>Thresh<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse109">teemo</a>
+                </h4>
+            </div>
+            <div id="collapse109" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Yorick<br>Pantheon<br>Akali<br>Rumble<br>Cho'Gath<br>Zed<br>Wukong<br>Jayce<br>Dr. Mundo<br>Olaf<br>Lee Sin<br>Sion<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse110">thresh</a>
+                </h4>
+            </div>
+            <div id="collapse110" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Lulu<br>Morgana<br>Alistar<br>Lucian<br>Janna<br>Zyra<br>Sivir<br>Ezreal<br>Morgana<br>Kalista<br>Nami<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse111">tristana</a>
+                </h4>
+            </div>
+            <div id="collapse111" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Corki<br>Diana<br>Lucian<br>Draven<br>Sivir<br>Twitch<br>Jinx<br>Soraka<br>Caitlyn<br>Kog'Maw<br>Thresh<br>Quinn<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse112">trundle</a>
+                </h4>
+            </div>
+            <div id="collapse112" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Ziggs<br>Darius<br>Pantheon<br>Kennen<br>Sona<br>Vladimir<br>Teemo<br>Jax<br>Aatrox<br>Fiora<br>Taric<br>Riven<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse113">tryndamere</a>
+                </h4>
+            </div>
+            <div id="collapse113" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Teemo<br>Rammus<br>Pantheon<br>Renekton<br>Jax<br>Malphite<br>Cho'Gath<br>Ryze<br>Teemo<br>Nasus<br>Garen<br>Fiora<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse114">twistedfate</a>
+                </h4>
+            </div>
+            <div id="collapse114" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Fizz<br>Diana<br>Yasuo<br>Kassadin<br>LeBlanc<br>Ziggs<br>Zed<br>Akali<br>Ahri<br>Master Yi<br>Veigar<br>Talon<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse115">twitch</a>
+                </h4>
+            </div>
+            <div id="collapse115" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Lee Sin<br>Caitlyn<br>Corki<br>Jinx<br>Quinn<br>Draven<br>Lulu<br>Varus<br>Annie<br>Lucian<br>Tristana<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse116">udyr</a>
+                </h4>
+            </div>
+            <div id="collapse116" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Ashe<br>Elise<br>Jax<br>Kayle<br>Trundle<br>Teemo<br>Riven<br>Ahri<br>Jarvan IV<br>Aatrox<br>Nunu<br>Nasus<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse117">urgot</a>
+                </h4>
+            </div>
+            <div id="collapse117" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Bard<br>Soraka<br>Sivir<br>Nidalee<br>Nami<br>Twitch<br>Vayne<br>Yasuo<br>Graves<br>Fizz<br>Tryndamere<br>Trundle<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse118">varus</a>
+                </h4>
+            </div>
+            <div id="collapse118" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Graves<br>Lucian<br>Sivir<br>Leona<br>Blitzcrank<br>Tristana<br>Ahri<br>Lucian<br>Aatrox<br>Thresh<br>Teemo<br>Miss Fortune<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse119">vayne</a>
+                </h4>
+            </div>
+            <div id="collapse119" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Caitlyn<br>Quinn<br>Draven<br>Tristana<br>Ashe<br>Corki<br>Varus<br>Graves<br>Twitch<br>Miss Fortune<br>Sona<br>Kog'Maw<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse120">veigar</a>
+                </h4>
+            </div>
+            <div id="collapse120" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Fizz<br>Talon<br>Zed<br>Kassadin<br>LeBlanc<br>Ryze<br>Galio<br>Katarina<br>Yasuo<br>Xerath<br>Swain<br>Akali<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse121">velkoz</a>
+                </h4>
+            </div>
+            <div id="collapse121" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Yasuo<br>LeBlanc<br>Fizz<br>Talon<br>Akali<br>Zed<br>Katarina<br>Ahri<br>Diana<br>Nidalee<br>Syndra<br>Kassadin<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse122">vi</a>
+                </h4>
+            </div>
+            <div id="collapse122" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Riven<br>Pantheon<br>Jax<br>Lee Sin<br>Darius<br>Teemo<br>Karma<br>Xin Zhao<br>Poppy<br>Xin Zhao<br>Renekton<br>Garen<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse123">viktor</a>
+                </h4>
+            </div>
+            <div id="collapse123" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Brand<br>Ziggs<br>Talon<br>Zed<br>Syndra<br>Lux<br>LeBlanc<br>Fizz<br>Annie<br>Diana<br>Nidalee<br>Yasuo<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse124">vladimir</a>
+                </h4>
+            </div>
+            <div id="collapse124" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Swain<br>Jarvan IV<br>Fiddlesticks<br>Malzahar<br>Xin Zhao<br>Irelia<br>Riven<br>Yorick<br>Nidalee<br>Fiora<br>Garen<br>Fizz<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse125">volibear</a>
+                </h4>
+            </div>
+            <div id="collapse125" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Teemo<br>Elise<br>Jayce<br>Darius<br>Renekton<br>Pantheon<br>Kennen<br>Kayle<br>Aatrox<br>Gnar<br>Wukong<br>Vayne<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse126">warwick</a>
+                </h4>
+            </div>
+            <div id="collapse126" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Yorick<br>Swain<br>Renekton<br>Udyr<br>Kayle<br>Olaf<br>Aatrox<br>Lee Sin<br>Rumble<br>Nocturne<br>Darius<br>Jax<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse127">wukong</a>
+                </h4>
+            </div>
+            <div id="collapse127" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Lee Sin<br>Darius<br>Pantheon<br>Garen<br>Renekton<br>Olaf<br>Nasus<br>Shyvana<br>Soraka<br>Fiora<br>Riven<br>Lee Sin<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse128">xayah</a>
+                </h4>
+            </div>
+            <div id="collapse128" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Miss Fortune<br>Tristana<br>Draven<br>Kalista<br>Varus<br>Ezreal<br>Caitlyn<br>Jhin<br>Jinx<br>Kalista<br>Lucian<br>Twitch<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse129">xerath</a>
+                </h4>
+            </div>
+            <div id="collapse129" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Ahri<br>Gragas<br>Zed<br>Syndra<br>Fizz<br>Kassadin<br>LeBlanc<br>Katarina<br>Aatrox<br>Viktor<br>Yasuo<br>Kalista<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse130">xinzhao</a>
+                </h4>
+            </div>
+            <div id="collapse130" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Jax<br>Fiora<br>Pantheon<br>Malphite<br>Malphite<br>Teemo<br>Volibear<br>Tryndamere<br>Wukong<br>Aatrox<br>Renekton<br>Udyr<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse131">yasuo</a>
+                </h4>
+            </div>
+            <div id="collapse131" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Jax<br>Malzahar<br>Kayle<br>Fiora<br>Darius<br>Swain<br>Akali<br>Annie<br>Riven<br>Xin Zhao<br>Soraka<br>Fizz<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse132">yorick</a>
+                </h4>
+            </div>
+            <div id="collapse132" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Cho'Gath<br>Nunu<br>Trundle<br>Xin Zhao<br>Irelia<br>Lee Sin<br>Aatrox<br>Renekton<br>Rengar<br>Riven<br>Nocturne<br>Aatrox<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse133">zac</a>
+                </h4>
+            </div>
+            <div id="collapse133" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Vi<br>Zilean<br>Yorick<br>Vladimir<br>Renekton<br>Fizz<br>Aatrox<br>Darius<br>Riven<br>Kindred<br>Vayne<br>Teemo<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse134">zed</a>
+                </h4>
+            </div>
+            <div id="collapse134" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Kayle<br>Jax<br>Lissandra<br>Kayle<br>Irelia<br>Malzahar<br>Wukong<br>Nasus<br>Vladimir<br>Diana<br>Talon<br>Singed<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse135">ziggs</a>
+                </h4>
+            </div>
+            <div id="collapse135" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>LeBlanc<br>Syndra<br>Talon<br>Yasuo<br>Xerath<br>Brand<br>Kassadin<br>Zed<br>Akali<br>Fizz<br>Veigar<br>Gragas<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse136">zilean</a>
+                </h4>
+            </div>
+            <div id="collapse136" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Annie<br>Sivir<br>Blitzcrank<br>Morgana<br>Amumu<br>Lux<br>Soraka<br>Kassadin<br>Pantheon<br>Xerath<br>Fizz<br>Fiddlesticks<br>
+</p>
+                </div>
+            </div>
+        </div><div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse137">zyra</a>
+                </h4>
+            </div>
+            <div id="collapse137" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <p>Fizz<br>Katarina<br>Talon<br>Diana<br>LeBlanc<br>Kassadin<br>Akali<br>Ahri<br>Ahri<br>Ziggs<br>Gragas<br>Kindred<br>
+</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
